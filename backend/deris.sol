@@ -1,6 +1,3 @@
-//Creator: Nirvan S.P. Theethira
-//Date: 04/29/2020
-//Purpose: CSCI 5673 Group Project
 //The file contains the solidity contract that controls interactions between rider and driver
 //The file need to depolyed on the blockchain
 //COMPILE: 
